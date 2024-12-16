@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://ing0420.tistory.com</loc>
+    <lastmod>2024-12-16T22:15:25+09:00</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://ing0420.tistory.com/category</loc>
+  </url>
+  <url>
+    <loc>https://ing0420.tistory.com/category/%EB%A7%9B%EC%A7%91</loc>
+  </url>
+  <url>
+    <loc>https://ing0420.tistory.com/tag</loc>
+  </url>
+  <url>
+    <loc>https://ing0420.tistory.com/guestbook</loc>
+  </url>
+</urlset>
